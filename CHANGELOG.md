@@ -1,5 +1,12 @@
 # Changelog
 
+## [15.1.1](https://github.com/midea-lan/midea-local/compare/v15.1.0...v15.1.1) (2026-11-11)
+
+
+### Bug Fixes
+
+* **ac:** decode 00000Q1B realtime power and energy as binary ([#1054](https://github.com/midea-lan/midea-local/issues/1054)) ([b0418ac](https://github.com/midea-lan/midea-local/commit/b0418ac5505a9333d07e0c7d6e87957cf7e80e48))
+
 ## [15.1.0](https://github.com/midea-lan/midea-local/compare/v15.0.0...v15.1.0) (2026-11-09)
 
 
